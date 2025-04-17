@@ -68,6 +68,3 @@ The Dashboard provides the following insights:
 
 ---
 
-## 📜 License
-
-This dashboard is created for **educational and analytical purposes** using mock data from AdventureWorks. Attribution is appreciated if reused in any form.
